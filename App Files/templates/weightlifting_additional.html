@@ -1,0 +1,22 @@
+<h1>
+    Set Your Lifting Type and Equipment Budget
+</h1>
+
+<form action="/weightlifter" method = "POST">
+    <label for="weight">Lifting Type:</label>
+    <select id="weight" name="weight">
+        <option value="bodyweight">Bodyweight (Best for At Home)</option>
+        <option value="highrep">Low-Weight, High Rep (Best for Building Lean, Toned Muscle)</option>
+        <option value="heavy">High-Weight, Low-Rep (Best for Building Muscle Mass)</option>
+    </select>
+    <br>
+    <br>
+    <label for="budget">Budget for At-Home Equipment:</label>
+    <select id="budget" name="budget">
+        <option value="100">Less Than $100</option>
+        <option value="200">Less Than $200</option>
+        <option value="500">Less Than $500</option>
+        <option value="1000">Less Than $1000</option>
+    </select>
+    <p><input type = "submit" value = "submit" /></p>
+</form>
