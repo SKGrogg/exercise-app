@@ -7,9 +7,8 @@ The app was built using FastAPI, and runs on Python and HTML. It was completed o
 A video walkthrough of the app and its expected functionality can be found here: https://www.youtube.com/watch?v=Wh1XKuhHl7Q
 
 # Original Proposal
-My idea for my final project is as follows.
 
-1. I would like to create an API that helps introduce people into new exercising routines. I've found that starting to get into a fitness routine can be very intimidating, and I am hopeful my app will help to centralize the process.
+ I would like to create an API that helps introduce people into new exercising routines. I've found that starting to get into a fitness routine can be very intimidating, and I am hopeful my app will help to centralize the process.
 
 My app will handle a select list of exercise modalities, which is currently restricted to the following: Running, Cycling, Swimming, Triathlon, Weight Lifting, Yoga, Cross-Training. It will have methods to:
 
