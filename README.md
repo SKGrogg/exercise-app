@@ -2,7 +2,7 @@
 
 This app served as my final project for Intermediate Python Programming at the University of Chicago in August of 2021.
 
-The app was built using FastAPI, and runs on Python and HTML. It was completed over the span of roughly four weeks, with the focus being primarily on back-end functionality. See below for the outlines of the original proposals and instructions on using the app.
+The app was built using FastAPI, and runs on Python and HTML. It was completed over the span of roughly four weeks, with the focus being on back-end functionality and not User Interface. See below for the outlines of the original proposals and instructions on using the app.
 
 A video walkthrough of the app and its expected functionality can be found here: https://www.youtube.com/watch?v=Wh1XKuhHl7Q
 
